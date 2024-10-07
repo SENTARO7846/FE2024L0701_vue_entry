@@ -4,5 +4,5 @@ const app= new VTTCue({
         return{
             text:'Hello Vue.js'
         };
-    }
+    　}
 });
